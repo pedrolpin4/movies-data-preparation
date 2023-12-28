@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlalchemy
+sqlalchemy-utils
+seaborn
+matplotlib
+matplotlib-inline
+ipykernel
