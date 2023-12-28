@@ -1,0 +1,14 @@
+{
+  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.files.associations": {
+    "*.dsl": "3d"
+  },
+  "material-icon-theme.folders.associations": {
+    "factories": "Generator",
+    "entities": "Mappings",
+    "notebooks": "Mock",
+    "repositories": "Connection",
+    "use_cases": "Class",
+    "credentials": "Constant"
+  }
+}
